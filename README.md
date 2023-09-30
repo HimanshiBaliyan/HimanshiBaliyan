@@ -1,5 +1,3 @@
-### Hello, World! 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -11,7 +9,15 @@
   <a href="https://himanshibaliyan.github.io/HimanshiPortfolio.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=HimanshiBaliyan&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+# hey there 👋
+
+
+### :woman_technologist: About Me :
 
 I'm Himanshi Baliyan, a tech enthusiast with a passion for coding and data-driven insights. 
 
