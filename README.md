@@ -1,6 +1,16 @@
 ### Hello, World! 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/himanshi-b-3bb8501ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://himanshibaliyan.github.io/HimanshiPortfolio.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 I'm Himanshi Baliyan, a tech enthusiast with a passion for coding and data-driven insights. 
