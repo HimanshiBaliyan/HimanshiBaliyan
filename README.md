@@ -1,5 +1,7 @@
 ### Hello, World! 👋
-<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+![Coding](https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx)
+
+[View on GIPHY](https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx)
 
 I'm Himanshi Baliyan, a tech enthusiast with a passion for coding and data-driven insights. 
 
