@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/himanshi-b-3bb8501ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://himanshibaliyan.github.io/HimanshiPortfolio.github.io/">
+<!--   <a href="https://himanshibaliyan.github.io/HimanshiPortfolio.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  </a> -->
   <br>
   <img src="https://komarev.com/ghpvc/?username=HimanshiBaliyan&style=flat-square&color=blue" alt=""/>
 </div>
